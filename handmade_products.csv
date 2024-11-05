@@ -1,0 +1,51 @@
+Product_Category,Development_Cost,Sold_Price,Quantity_Sold,Region,Seasonality_Factor,Profit_Margin
+Woodcraft,557.95,1771.48,71,West,High,68.5
+Leather Goods,1398.2,1272.2,195,West,Medium,-9.9
+Ceramics,1258.99,2920.79,61,North,High,56.9
+Leather Goods,1683.07,2576.96,21,North,Low,34.69
+Leather Goods,429.39,2220.84,48,South,Low,80.67
+Textiles,843.02,860.76,139,North,High,2.06
+Ceramics,446.25,916.99,140,East,High,51.34
+Ceramics,1535.19,313.21,122,West,Low,-390.15
+Ceramics,907.8,2189.86,110,North,Low,58.55
+Leather Goods,495.09,510.49,122,North,Medium,3.02
+Woodcraft,1178.63,1430.14,193,South,Low,17.59
+Ceramics,159.5,764.81,90,South,Medium,79.15
+Leather Goods,1700.34,2708.14,196,East,Medium,37.21
+Textiles,954.53,1531.04,122,West,Medium,37.65
+Woodcraft,850.79,1777.17,11,South,Medium,52.13
+Textiles,1860.65,2147.45,139,North,Medium,13.36
+Woodcraft,1481.82,590.13,63,West,High,-151.1
+Leather Goods,720.43,1892.37,96,West,Low,61.93
+Jewelry,1183.84,1711.56,138,North,Medium,30.83
+Woodcraft,1089.59,768.57,156,South,Low,-41.77
+Textiles,1926.23,2839.99,135,North,Low,32.17
+Leather Goods,1704.61,1876.82,139,West,Medium,9.18
+Woodcraft,1519.91,2145.4,62,Central,High,29.15
+Jewelry,1125.42,2665.31,181,Central,Medium,57.78
+Jewelry,1214.83,1948.19,169,East,High,37.64
+Ceramics,1933.99,1027.77,169,North,Low,-88.17
+Ceramics,1253.37,495.38,77,North,High,-153.01
+Textiles,624.4,1478.3,192,East,High,57.76
+Woodcraft,662.92,811.63,193,East,High,18.32
+Woodcraft,414.01,1366.23,132,East,Low,69.7
+Ceramics,129.71,2673.18,154,West,Low,95.15
+Woodcraft,904.46,1108.17,47,North,High,18.38
+Woodcraft,850.27,541.85,33,West,High,-56.92
+Jewelry,657.63,1197.63,78,East,Medium,45.09
+Ceramics,126.75,2739.12,125,North,High,95.37
+Leather Goods,477.8,961.97,107,West,Medium,50.33
+Ceramics,1451.55,2013.53,148,West,High,27.91
+Leather Goods,1601.33,201.46,153,East,Medium,-694.86
+Jewelry,1251.32,1187.19,106,North,Low,-5.4
+Textiles,1859.97,1053.39,133,East,High,-76.57
+Woodcraft,1337.05,661.04,196,North,High,-102.26
+Jewelry,1838.42,1695.45,79,Central,High,-8.43
+Woodcraft,1715.07,1557.52,102,South,High,-10.12
+Textiles,953.96,2138.82,12,South,Medium,55.4
+Textiles,281.28,954.35,157,South,High,70.53
+Jewelry,804.55,883.55,196,East,Low,8.94
+Textiles,1370.8,671.21,173,Central,Low,-104.23
+Leather Goods,1365.25,812.54,156,North,High,-68.02
+Textiles,1223.47,1762.69,99,West,Low,30.59
+Woodcraft,621.97,1330.74,156,North,High,53.26
